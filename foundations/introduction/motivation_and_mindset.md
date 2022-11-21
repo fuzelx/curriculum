@@ -19,7 +19,7 @@ To give your motivation a bit of a boost, you can read about the success of othe
 
 
 ### Growth Mindset
-
+dont waste ur time to do this
 Your mindset is very important when teaching yourself *any* new skills, not just programming. Your mindset will have more of an impact on your chances of success than just about anything else.
 
 Someone with the **fixed mindset** believes if they don't get something on their first attempt, they never will. They believe that they simply aren't smart enough to be able to do or understand some things.
